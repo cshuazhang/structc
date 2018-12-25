@@ -3,6 +3,9 @@
     背景 : 构建稍微通用点的 C 结构基础库
     方式 : 基于注册
     适用 : 开始搭建项目的人群, 且有点喜欢 C
+    原作者博客中对代码库的介绍：
+    https://www.cnblogs.com/life2refuel/p/8361578.html
+    https://www.cnblogs.com/life2refuel/p/9766875.html
 
 ### 好像才刚开始 ~
 
